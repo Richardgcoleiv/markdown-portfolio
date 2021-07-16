@@ -1,4 +1,3 @@
-Languages
 * Python
 * Java
 * Go
